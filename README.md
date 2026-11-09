@@ -15,7 +15,7 @@
 
 ## 👋 About me
 
-I'm a **data analyst** with a foot in two worlds: **healthcare analytics** and **blockchain**. I build the systems behind the numbers: pipelines that pull data from many sources, clean it, check it and turn it into dashboards that update by themselves. On the blockchain side I write and audit smart contracts, looking for the bugs before attackers do.
+I'm a **data analyst** with a foot in two worlds: **healthcare analytics** and **blockchain**. I build the systems behind the numbers: pipelines that pull data from many sources, clean it, check it and turn it into dashboards that update by themselves. On the blockchain side, I write and audit smart contracts, looking for the bugs before attackers do.
 
 - 🏥 **Healthcare analytics:** clinic visits, laboratory and pharmacy sales, memberships, patient flow, senior care
 - 🔧 **Data engineering:** ETL in Python and SQL, layered warehouses, REST API integration, scheduling
